@@ -26,15 +26,15 @@ Phone and tablet resolution support
 Screenshots
 -----------
 
-<img width="80%" src="screenshots/1.jpg" />
-<img width="80%" src="screenshots/2.jpg" />
-<img width="80%" src="screenshots/3.jpg" />
-<img width="80%" src="screenshots/4.jpg" />
-<img width="80%" src="screenshots/5.jpg" />
-<img width="80%" src="screenshots/51.jpg" />
-<img width="80%" src="screenshots/6.jpg" />
-<img width="80%" src="screenshots/7.jpg" />
-<img width="80%" src="screenshots/8.jpg" />
+<img width="30%" src="screenshots/1.jpg" />
+<img width="30%" src="screenshots/2.jpg" />
+<img width="30%" src="screenshots/3.jpg" />
+<img width="30%" src="screenshots/4.jpg" />
+<img width="30%" src="screenshots/5.jpg" />
+<img width="30%" src="screenshots/51.jpg" />
+<img width="30%" src="screenshots/6.jpg" />
+<img width="30%" src="screenshots/7.jpg" />
+<img width="30%" src="screenshots/8.jpg" />
 
 Lessons Learned :
 ---------
